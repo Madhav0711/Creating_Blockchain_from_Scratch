@@ -26,6 +26,6 @@ Consensus:
 
 In order to add new blocks to the blockchain, the network must reach consensus. This means that all of the computers in the network must agree that the new block is valid.
 
-Conclusion
+Conclusion:
 
 Creating a blockchain from scratch using JavaScript is a challenging but rewarding task.
